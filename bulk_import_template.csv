@@ -1,13 +1,2 @@
-destination,source,title,description,image,favicon
-https://ckhope.github.io/videoct/ctbh/070623/j/q/y/linkdpwzEyPDOXktWLCxxx11.html,pxl.to/ctbh0706231,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
-https://ckhope.github.io/videoct/ctbh/070623/y/g/l/linkZatKbuqjGQntxcMxxx11.html,pxl.to/ctbh0706232,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
-https://ckhope.github.io/videoct/ctbh/070623/y/l/x/linkSGdaZDnnuzLmnxQxxx11.html,pxl.to/ctbh0706233,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
-https://ckhope.github.io/videoct/ctha/070623/j/k/m/linkrWXiTsDOfeRhXEAxxx11.html,pxl.to/ctha0706231,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
-https://ckhope.github.io/videoct/ctha/070623/w/o/f/linkZGQkyhBTPUHKKMbxxx11.html,pxl.to/ctha0706232,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
-https://ckhope.github.io/videoct/ctha/070623/z/o/x/linkIAMvddtlpRIcOFoxxx11.html,pxl.to/ctha0706233,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
-https://ckhope.github.io/videoct/ctth/070623/i/c/h/linkIaYmZgEGvPdgWXIxxx11.html,pxl.to/ctth0706231,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
-https://ckhope.github.io/videoct/ctth/070623/m/l/y/linkgMvsxWmZuFoTMncxxx11.html,pxl.to/ctth0706232,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
-https://ckhope.github.io/videoct/ctth/070623/p/u/c/linkpclZZLelxoHOiRlxxx11.html,pxl.to/ctth0706233,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
-https://ckhope.github.io/videoct/kt1/070623/a/x/e/linkJetQBcqYnZNGJpbxxx11.html,pxl.to/kt10706231,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
-https://ckhope.github.io/videoct/kt1/070623/q/w/f/linkVPperFIHZrDYTdxxxx11.html,pxl.to/kt10706232,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
-https://ckhope.github.io/videoct/kt1/070623/r/a/u/linkcMwXHLVbiRuZkqNxxx11.html,pxl.to/kt10706233,Redirect,Redirect,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico
+destination,source,title,description,image,favicon,tags
+https://google.com,pxl.to/example,Example title,Example description,https://www.pxl.to/images/brand/tiny.png,https://www.pxl.to/favicon.ico,"Example tag,Another example tag"
